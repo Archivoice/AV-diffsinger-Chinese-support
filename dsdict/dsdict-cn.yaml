@@ -4,6 +4,7 @@ symbols:
 - {symbol: cl, type: stop}
 - {symbol: vf, type: fricative}
 - {symbol: exh, type: fricative}
+- {symbol: axh, type: fricative}
 #CN
 - {symbol: cn/a, type: vowel}
 - {symbol: cn/A, type: vowel}
