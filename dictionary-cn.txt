@@ -3,6 +3,8 @@ AP	AP
 cl	cl
 vf	vf
 mlem	mlem
+exh  exh
+axh  axh
 a	a
 A	A
 e	e
