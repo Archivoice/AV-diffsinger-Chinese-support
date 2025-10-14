@@ -12,6 +12,7 @@ er	er
 E	E
 i	i
 I	I
+i0  i0
 ih	ih
 ia	ia
 iA	iA
