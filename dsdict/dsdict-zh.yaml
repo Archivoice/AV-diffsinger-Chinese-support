@@ -61,9 +61,9 @@ entries:
 - {grapheme: chi, phonemes: [zh/ch, zh/ih]}
 - {grapheme: shi, phonemes: [zh/sh, zh/ih]}
 - {grapheme: ri, phonemes: [zh/r, zh/ih]}
-- {grapheme: zi, phonemes: [zh/z, zh/I]}
-- {grapheme: ci, phonemes: [zh/c, zh/I]}
-- {grapheme: si, phonemes: [zh/s, zh/I]}
+- {grapheme: zi, phonemes: [zh/z, zh/i0]}
+- {grapheme: ci, phonemes: [zh/c, zh/i0]}
+- {grapheme: si, phonemes: [zh/s, zh/i0]}
 - {grapheme: ba, phonemes: [zh/b, zh/a]}
 - {grapheme: pa, phonemes: [zh/p, zh/a]}
 - {grapheme: ma, phonemes: [zh/m, zh/a]}
