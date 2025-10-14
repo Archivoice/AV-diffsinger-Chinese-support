@@ -45,7 +45,7 @@ Consonant List: `b`,`c`,`ch`,`d`,`f`,`g`,`h`,`j`,`k`,`l`,`m`,`n`,`N`,`ng`,`p`,`q
 |  x      |        | **x**ia |
 
 ###
-Vowel List: `a`,`A`,`e`,`E`,`er`,`i`,`I`,`I0`,`ia`,`iA`,`iO`,`ih`,`ii`,`O`,`u`,`U`,`ua`,`uA`,`uE`,`uo`,`V`,`yI`,`yE`,`yu`
+Vowel List: `a`,`A`,`e`,`E`,`er`,`i`,`I`,`i0`,`ia`,`iA`,`iO`,`ih`,`ii`,`O`,`u`,`U`,`ua`,`uA`,`uE`,`uo`,`V`,`yI`,`yE`,`yu`
 
 > the part where the phoneme is used will be in bold for marking
 
@@ -57,8 +57,8 @@ Vowel List: `a`,`A`,`e`,`E`,`er`,`i`,`I`,`I0`,`ia`,`iA`,`iO`,`ih`,`ii`,`O`,`u`,`
 |  E      |        | d**e**i   |
 |  er     |        | **er**    |
 |  i      |        | b**i**    |
-|  I      |        | c**i**    |
-|  I0     |        | q**i**ng  |
+|  I      |        | q**i**ng  |
+|  i0     |        | c**i**    |
 |  ia     |        | j**ia**   |
 |  iA     |        | q**ia**ng |
 |  iO     |        | q**io**ng |
