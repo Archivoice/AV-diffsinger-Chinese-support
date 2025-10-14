@@ -62,9 +62,9 @@ zhi	zh ih
 chi	ch ih
 shi	sh ih
 ri	r ih
-zi	z I
-ci	c I
-si	s I
+zi	z i0
+ci	c i0
+si	s i0
 ba	b a
 pa	p a
 ma	m a
