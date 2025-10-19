@@ -2,6 +2,7 @@ symbols:
 - {symbol: AP, type: vowel}
 - {symbol: SP, type: vowel}
 - {symbol: cl, type: stop}
+- {symbol: mlem, type: stop}
 - {symbol: vf, type: fricative}
 - {symbol: exh, type: fricative}
 - {symbol: axh, type: fricative}
