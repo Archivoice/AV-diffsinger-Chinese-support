@@ -1,5 +1,3 @@
-SP	SP
-AP	AP
 cl	cl
 vf	vf
 mlem	mlem
