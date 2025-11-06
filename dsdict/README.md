@@ -27,7 +27,7 @@ zh/k, cn/k
 zh/l, cn/l
 zh/m, cn/m
 zh/n, cn/n
-zh/o, cn/o
+zh/o, cn/O
 zh/p, cn/p
 zh/q, cn/q
 zh/r, cn/r
