@@ -43,6 +43,9 @@ Consonant List: `b`,`c`,`ch`,`d`,`f`,`g`,`h`,`j`,`k`,`l`,`m`,`n`,`N`,`ng`,`p`,`q
 |  t      |        | **t**a  |
 |  w      |        | **w**a  |
 |  x      |        | **x**ia |
+|  y      |        | **y**a  |
+|  z      |        | **z**a  |
+|  zh     |        | **zh**a |
 
 ###
 Vowel List: `a`,`A`,`e`,`E`,`er`,`i`,`I`,`i0`,`ia`,`iA`,`iO`,`ih`,`ii`,`O`,`u`,`U`,`ua`,`uA`,`uE`,`uo`,`V`,`yI`,`yE`,`yu`
